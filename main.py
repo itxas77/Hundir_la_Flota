@@ -1,3 +1,7 @@
+from utils import *
+import numpy as np
+
+
 def main():
     print("⚓ Bienvenido a Hundir la flota ⚓")
 
